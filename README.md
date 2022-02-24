@@ -3,5 +3,5 @@ It is a small contact application that lets you manage all your contacts 📔. B
 
 Functionalities of the Contact App -
 
-Enables the user to add, update, view and delete contacts.
-Uses JSON Server to fetch the data.
+1. Enables the user to add, update, view and delete contacts.
+2. Uses JSON Server to fetch the data.
